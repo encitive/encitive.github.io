@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 24/07/2020 17:14
+  	Creation date: 12/11/2020 15:13
   	*/
 
 @font-face {
@@ -28,12 +28,12 @@
   font-style: normal;
 }
 
-.flaticon-smartphone-2:before { content: "\f100"; }
-.flaticon-smartphone:before { content: "\f101"; }
-.flaticon-smartphone-1:before { content: "\f102"; }
-.flaticon-strategy:before { content: "\f103"; }
-.flaticon-training:before { content: "\f104"; }
-.flaticon-human-resources:before { content: "\f105"; }
-.flaticon-send:before { content: "\f106"; }
-.flaticon-shuttle:before { content: "\f107"; }
-.flaticon-plane:before { content: "\f108"; }
+.flaticon-puzzle-piece:before { content: "\f100"; }
+.flaticon-analytics:before { content: "\f101"; }
+.flaticon-gift-box:before { content: "\f102"; }
+.flaticon-laugh:before { content: "\f103"; }
+.flaticon-winner:before { content: "\f104"; }
+.flaticon-clock:before { content: "\f105"; }
+.flaticon-positive-vote:before { content: "\f106"; }
+.flaticon-premium-quality:before { content: "\f107"; }
+.flaticon-premium:before { content: "\f108"; }

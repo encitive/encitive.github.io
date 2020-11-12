@@ -2173,9 +2173,7 @@ p {
 /*===== Brand Style =====*/
 .brand-area {
   padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #fff;
-  border-bottom: 1px solid #d7dbe7; }
+  background-color: #fff;}
 
 .single-brand {
   text-align: center; }

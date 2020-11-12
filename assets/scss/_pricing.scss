@@ -171,7 +171,33 @@
             }
         }
     }
+    
     &.pricing-2{
+        border-color: #ee539b;
+        background-color: #fff3f9;
+
+        & .pricing-price{    
+            & .sub-title{
+                color: #ee539b;
+            }            
+        }
+        
+        & .pricing-icon{
+            background-color: #ee539b;
+        }
+
+        & .pricing-body{
+            & .pricing-list{
+                & li{
+                    color: #666e82;
+                }
+            }
+            & .main-btn{
+                background-color: #fff3f9;                
+            }
+        }
+    }
+	&.pricing-3{
         border-color: #9364d4;
         background-color: #9364d4;
 
@@ -194,31 +220,6 @@
                 &::before{
                     background-color: $heading-color;
                 }
-            }
-        }
-    }
-    &.pricing-3{
-        border-color: #ee539b;
-        background-color: #fff3f9;
-
-        & .pricing-price{    
-            & .sub-title{
-                color: #ee539b;
-            }            
-        }
-        
-        & .pricing-icon{
-            background-color: #ee539b;
-        }
-
-        & .pricing-body{
-            & .pricing-list{
-                & li{
-                    color: #666e82;
-                }
-            }
-            & .main-btn{
-                background-color: #fff3f9;                
             }
         }
     }

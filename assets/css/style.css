@@ -1836,16 +1836,24 @@ p {
     z-index: 5; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .screenshot-active::before {
-        width: 38%; } }
+        width: 39%;
+        height: 108%;
+        top: -4%; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .screenshot-active::before {
-        width: 38%; } }
+        width: 38%;
+        height: 106%;
+        top: -3%; } }
     @media (max-width: 767px) {
       .screenshot-active::before {
-        width: 101%; } }
+        width: 118%;
+        height: 118%;
+        top: -9%; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
       .screenshot-active::before {
-        width: 38%; } }
+        width: 37%;
+        height: 96%;
+        top: 2%; } }
   .screenshot-active .single-screenshot img {
     width: 100%; }
 
